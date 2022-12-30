@@ -15,14 +15,14 @@
 - [Articles](#articles)
 - [Podcasts](#podcasts)
 - [Contribution](#contribution)
-- [Licence](#licence)
+- [License](#license)
 
 ## Documentation
 
 > Official Bittensor Documentation
 
 - [Whitepaper](https://drive.google.com/file/d/1VnsobL6lIAAqcA1_Tbm8AYIQscfJV4KU/view  ) - Bittensor: A Peer-to-Peer Intelligence Market
-- [Official Docs](https://docs.bittensor.com/) - Official projecz documentation and tutorials
+- [Official Docs](https://docs.bittensor.com/) - Official project documentation and tutorials
 - [Bittensor Litepaper](https://opentensor.gitbook.io/bittensor/keyconcepts%20/introduction)
 - [Bittensor Project Github](https://github.com/opentensor/bittensor  ) - Official project code
 
@@ -54,7 +54,7 @@
 > Where to buy TAO token
 
 - [Bittensor Exchange](https://tensor.exchange/) - Bittensor third-party exchange - not affiliated with Bittensor/Tao Team
-- [Bittensor OTC Discord Channel](https://discord.gg/WAvBMtXgCv) - OTC (Over the Counter) Discord Server to trade TAO - not affiliated with Bittensor/Tao Team
+- [TAO OTC Discord Channel](https://discord.gg/WAvBMtXgCv) - OTC (Over the Counter) Discord Server to trade TAO - not affiliated with Bittensor/Tao Team
 
 ## Community
 
@@ -75,6 +75,8 @@
 > Links to useful articles and Twitter threads
 
 - [Bittensor - Interesting AI project](https://mirror.xyz/0xabac.eth/CNLTH5-C6K1DCzV90u3A8RFtk4tlY2xxSoSoLD9CKrw) - English translation of the article written by Popek1990.eth
+- [Bittensor –  Beating Google at its own  Game](https://cryptoyusaku.substack.com/p/bittensor-beating-google-at-its-own)  - Article by CryptoYusaku
+- [BitTensor [τ, τ]  $Tao](https://docs.google.com/presentation/d/1B7cxXjyk7kBVSaB4T3fp5g9itDQGQ_1tB7OjOQSzzU0/edit#slide=id.p ) - Presentation by @AIzorr0
 - [Twitter thread by Crypτo Sleeping Gianτs](https://twitter.com/CryptoSGiants/status/1595487102485118991) - Twitter thread by @CryptoSGiants
 - [Twitter thread by ProjectW](https://twitter.com/fitforcrypto_/status/1604054079973593088) - Twitter thread by @fitforcrypto_
 
@@ -87,7 +89,7 @@
 
 ## Contribution
 
-Contributions welcome! Please read the [Contributing Guidelines](contributing.md) first.
+Contributions welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) first.
 
 ## Other Awesome Lists
 
