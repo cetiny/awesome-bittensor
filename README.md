@@ -62,6 +62,7 @@
 
 - [The Bittensor Hub](https://www.youtube.com/@TheBittensorHub) - Community created YouTube Channel dedicated to Bittensor
 - [Community Telegram Channel](https://t.me/taobittensor) - Community-led Telegram channel
+- [Community FAQ]((CommunityFAQ.md))
 
 ## Videos
 
@@ -69,6 +70,11 @@
 
 - [How To Buy TAO | Bittensor Network | You Are EARLY](https://www.youtube.com/watch?v=Mnk9cL9XYV4) - YouTube Video by The Cryptorian
 - [How to Buy TAO on the Bittensor Exchange & Create a TAO Wallet](https://www.youtube.com/watch?v=xsx3rXu3r1s) - YouTube Video by Dread Bongo
+- [Bittensor (TAO) Incentivized neural net of computer intelligence](https://www.youtube.com/watch?v=-pTPJ6QU0w8) - Bittensor Review by YouTuber Intrepidgains
+- [BITTENSOR by their technical writer Mac Trasher!](https://www.youtube.com/watch?v=0wZoYBq3hsw) - Interview with Bittensor Technical Writer Mac Trasher
+- [Bittensor TAO is the NEXT 1,000 Bitcoin!!!! ](https://www.youtube.com/watch?v=ULeg7SlBMV8) - Bittensor Review by YouTuber Ayman Mufleh
+- [Bittensor TAO Crypto - the future of AI](https://www.youtube.com/watch?v=BRzNe3h6hk0) - Bittensor Review by YouTuber Crypto Pugal (in Tamil)
+- [Sztuczna Inteligencja AI - ChatGPT + OpenAI + Bittensor - Nowy Trend Crypto?](https://www.youtube.com/watch?v=EKnfsi-r_JY) - Bittensor Review by YouTuber Michal Lewicz (in Polish)
 
 ## Articles
 
@@ -86,6 +92,8 @@
 
 - [AI on the blockchain, decentralized AI research, incentivized computer networks | Ala Shaabana, cofounder of Bittensor](https://open.spotify.com/episode/1GafiUsYBJXoljLHOYmWcc?si=257d9c6b1e2d439f&nd=1) - Ala Shaabana on Infinite Machine Learning Podcast
 - [Based Space - EP74: Co-Founder and Front End Lead Engineer at Bittensor](https://open.spotify.com/episode/1xuN4KwpJbOOkOPmgLYgWJ?si=e7158085df784be2&nd=1) - This is an interview with Jacob Steeves, Co-Founder and 0xCarro, Front End Lead Engineer of Bittensor
+- [On the Chain: Matt Hamilton - Bittensor, a Decentralized Neural Network - Tao Digital Asset](https://onthechain.io/podcast/matt-hamilton-bittensor-a-decentralized-neural-network-tao-digital-asset/) - Matt Hamilton Interview, On the Chain Podcast
+- [Meta-averse: Building an Open, Decentralized, and Community-Driven Marketplace (for AI!) ft Jacob Steeves and Ala Shaabana](https://metaaverse.substack.com/p/ep-2-building-an-open-decentralized#details) - Jacob Steeves and Ala Shaabana Interview, Meta-averse Podcast
 
 ## Contribution
 
