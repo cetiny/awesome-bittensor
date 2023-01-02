@@ -1,8 +1,10 @@
-# Awesome Bittensor
+# Awesome Bittensor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome things about Bittensor
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+To create a better knowledge of Bittensor, I now accept donations in Bittensor's currency $TAO.
+
+TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 
 ## Contents
 
@@ -62,7 +64,7 @@
 
 - [The Bittensor Hub](https://www.youtube.com/@TheBittensorHub) - Community created YouTube Channel dedicated to Bittensor
 - [Community Telegram Channel](https://t.me/taobittensor) - Community-led Telegram channel
-- [Community FAQ]((CommunityFAQ.md))
+- [Community FAQ](CommunityFAQ.md)
 
 ## Videos
 
@@ -97,7 +99,7 @@
 
 ## Contribution
 
-Contributions welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) first. You can contact me [@xibumi](https://twitter.com/xibumi) on Twitter for questions and collaboration. 
 
 ## Other Awesome Lists
 
