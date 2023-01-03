@@ -24,9 +24,9 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 > Official Bittensor Documentation
 
 - [Whitepaper](https://drive.google.com/file/d/1VnsobL6lIAAqcA1_Tbm8AYIQscfJV4KU/view  ) - Bittensor: A Peer-to-Peer Intelligence Market
-- [Official Docs](https://docs.bittensor.com/) - Official project documentation and tutorials
+- [Official Docs](https://docs.bittensor.com/) - Official Project Documentation and Tutorials
 - [Bittensor Litepaper](https://opentensor.gitbook.io/bittensor/keyconcepts%20/introduction)
-- [Bittensor Project Github](https://github.com/opentensor/bittensor  ) - Official project code
+- [Bittensor Project Github](https://github.com/opentensor/bittensor  ) - Official Project Code
 
 ## Official Links
 
@@ -83,10 +83,11 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 > Links to useful articles and Twitter threads
 
 - [Bittensor - Interesting AI project](https://mirror.xyz/0xabac.eth/CNLTH5-C6K1DCzV90u3A8RFtk4tlY2xxSoSoLD9CKrw) - English translation of the article written by Popek1990.eth
-- [Bittensor –  Beating Google at its own  Game](https://cryptoyusaku.substack.com/p/bittensor-beating-google-at-its-own)  - Article by CryptoYusaku
+- [Bittensor –  Beating Google at its own  Game](https://cryptoyusaku.substack.com/p/bittensor-beating-google-at-its-own) - Article by CryptoYusaku
 - [BitTensor [τ, τ]  $Tao](https://docs.google.com/presentation/d/1B7cxXjyk7kBVSaB4T3fp5g9itDQGQ_1tB7OjOQSzzU0/edit#slide=id.p ) - Presentation by @AIzorr0
 - [Twitter thread by Crypτo Sleeping Gianτs](https://twitter.com/CryptoSGiants/status/1595487102485118991) - Twitter thread by @CryptoSGiants
 - [Twitter thread by ProjectW](https://twitter.com/fitforcrypto_/status/1604054079973593088) - Twitter thread by @fitforcrypto_
+- [Twitter thread by DREAD BONGO](https://twitter.com/DreadBong0/status/1610031289330958338) - Twitter thread by @DreadBong0
 
 ## Podcasts
 
