@@ -50,6 +50,9 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 - [Polkadot Wallet](https://polkadot.js.org/extension/) - Polkadot Wallet for the TAO token
 - [Bittensor Oracle](https://explorer.nakamoto.opentensor.ai/#/explorer) - Bittensor chain explorer Tool to check recent blocks and account status
 - [https://mnr.ai/](https://mnr.ai/) - Builders and code snippets for Bittensor node operators
+- [Tensor Wallet](https://tensor-wallet.fairchild.dev/) - Bittensor Wallet by Developer Cameron Fairchild
+- [Tensor Ping](https://tensor-ping.fairchild.dev/) - Tool to ping your Bittensor server, check balance. Faucet for test tokens.
+- [TAO Stats Website](https://taostats.io/) - Metagraph UID data, ranking, staking, buying, knowledge and resources.
 
 ## Exchanges
 
@@ -75,6 +78,7 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 - [Bittensor (TAO) Incentivized neural net of computer intelligence](https://www.youtube.com/watch?v=-pTPJ6QU0w8) - Bittensor Review by YouTuber Intrepidgains
 - [BITTENSOR by their technical writer Mac Trasher!](https://www.youtube.com/watch?v=0wZoYBq3hsw) - Interview with Bittensor Technical Writer Mac Trasher
 - [Bittensor TAO is the NEXT 1,000 Bitcoin!!!! ](https://www.youtube.com/watch?v=ULeg7SlBMV8) - Bittensor Review by YouTuber Ayman Mufleh
+- [BITTENSOR Will  Capture TRILLIONS in VALUE | $TAO the  commodity](https://www.youtube.com/watch?v=Afj8Az8Bud8) - Bullish Case for  Bittensor - Video by The Cryptorian
 - [Bittensor TAO Crypto - the future of AI](https://www.youtube.com/watch?v=BRzNe3h6hk0) - Bittensor Review by YouTuber Crypto Pugal (in Tamil)
 - [Sztuczna Inteligencja AI - ChatGPT + OpenAI + Bittensor - Nowy Trend Crypto?](https://www.youtube.com/watch?v=EKnfsi-r_JY) - Bittensor Review by YouTuber Michal Lewicz (in Polish)
 
