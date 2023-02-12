@@ -36,7 +36,6 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 - [Medium](https://bittensor.medium.com ) - Official blog on Medium
 - [Discord](https://discord.gg/bittensor) - Official Bittensor Discord Channel
 - [Telegram](https://t.me/taobittensor) - Official Bittensor Telegram Group
-- [Playground](https://alpha.bittensor.com/) - Playground to test AI models running on Bittensor
 - [Bittensor on LinkedIn](https://www.linkedin.com/company/bittensor/) - Bittensor LinkedIn page
 - [Twitter](https://twitter.com/bittensor_) - Official Bittensor Twitter account
 - [YouTube](https://www.youtube.com/@Bittensor) - Official Bittensor YouTube channel
@@ -53,6 +52,9 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 - [Tensor Wallet](https://tensor-wallet.fairchild.dev/) - Bittensor Wallet by Developer Cameron Fairchild
 - [Tensor Ping](https://tensor-ping.fairchild.dev/) - Tool to ping your Bittensor server, check balance. Faucet for test tokens.
 - [TAO Stats Website](https://taostats.io/) - Metagraph UID data, ranking, staking, buying, knowledge and resources.
+- [TAO Ethereum Bridge](https://taobridge.xyz/) - Community maintained bridge between Bittensor and Ethereum networks 
+- [wTAO Dune Analytics Dashboard](https://dune.com/xibumi/wtao-stats) - WrappedTAO Dashboard powered by Dune Analytics: Daily trades, volume, hourly price, wallets, whale list and top trades by volume.
+- [wTAO Chart on Dexscreener](https://dexscreener.com/ethereum/0x433a00819c771b33fa7223a5b3499b24fbcd1bbc) - wTAO (Wrapped TAO) / WETH Price/Volume Chart
 
 ## Exchanges
 
@@ -60,6 +62,7 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 
 - [Bittensor Exchange](https://tensor.exchange/) - Bittensor third-party exchange - not affiliated with Bittensor/Tao Team
 - [TAO OTC Discord Channel](https://discord.gg/WAvBMtXgCv) - OTC (Over the Counter) Discord Server to trade TAO - not affiliated with Bittensor/Tao Team
+- [wTAO on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44) - Wrapped TAO (wTAO) is bridged $TAO from https://taobridge.xyz and can be exchanged 1:1 for actual TAO. However, is technically an "IOU". The recommendation is to use the bridge in small amounts and to withdraw to the native chain if you're buying and holding long term. 
 
 ## Community
 
@@ -68,6 +71,7 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 - [The Bittensor Hub](https://www.youtube.com/@TheBittensorHub) - Community created YouTube Channel dedicated to Bittensor
 - [Community Telegram Channel](https://t.me/taobittensor) - Community-led Telegram channel
 - [Community FAQ](CommunityFAQ.md)
+- [Bittensor Community Discord Channel](https://discord.gg/WAvBMtXgCv) - Unofficial community Discord server for price talk, OTC Trades, Bridge/wTAO Chat, Taostats Chat.
 
 ## Videos
 
@@ -81,6 +85,10 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 - [BITTENSOR Will  Capture TRILLIONS in VALUE | $TAO the  commodity](https://www.youtube.com/watch?v=Afj8Az8Bud8) - Bullish Case for  Bittensor - Video by The Cryptorian
 - [Bittensor TAO Crypto - the future of AI](https://www.youtube.com/watch?v=BRzNe3h6hk0) - Bittensor Review by YouTuber Crypto Pugal (in Tamil)
 - [Sztuczna Inteligencja AI - ChatGPT + OpenAI + Bittensor - Nowy Trend Crypto?](https://www.youtube.com/watch?v=EKnfsi-r_JY) - Bittensor Review by YouTuber Michal Lewicz (in Polish)
+- [TAO ~ Bittensor: Das Internet der AI`s 🌐100x Crypto GEM?](https://www.youtube.com/watch?v=m1MS-rDfrSU) - Bittensor Review by YouTuber TaiikN Crypto (in German)
+- [BITTENSOR (TAO) + ChatGPT + IA : Le futur BITCOIN de l'Intelligence Artificielle à ne pas rater !](https://www.youtube.com/watch?v=MwJiHMfqfUc) - Bittensor Review by YouTuber NextCash (in French)
+- [Bittensor TAO Coin Yapay Zeka Projesi Muhteşem Potansiyel !!](https://www.youtube.com/watch?v=rM6Q2ZvkjhE) - Bittensor Review by YouTuber Kripto Proje (in Turkish)
+- [La inteligencia artificial mas poderosa del mundo. Bittensor TAO es el proximo Bitcoin ( ₿ = τ )](https://www.youtube.com/watch?v=JB0aAxC3QUU) - Bittensor Review by YouTuber Crypto Jumpstart ES (in Spanish)
 
 ## Articles
 
