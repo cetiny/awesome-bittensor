@@ -40,7 +40,6 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 - [Twitter](https://twitter.com/bittensor_) - Official Bittensor Twitter account
 - [YouTube](https://www.youtube.com/@Bittensor) - Official Bittensor YouTube channel
 - [Bittensor Network Metagraph](https://bittensor.com/network) - Tool to monitor the network
-- [Bittensor Parachain](https://parachains.info/details/bittensor) - Bittensor Parachain on Polkadot
 
 ## Tools
 
@@ -61,7 +60,7 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 > Where to buy TAO token
 
 - [Bittensor Exchange](https://tensor.exchange/) - Bittensor third-party exchange - not affiliated with Bittensor/Tao Team
-- [TAO OTC Discord Channel](https://discord.gg/WAvBMtXgCv) - OTC (Over the Counter) Discord Server to trade TAO - not affiliated with Bittensor/Tao Team
+- [MEXC](https://www.mexc.com/exchange/TAO_USDT) - MEXC is a centralized cryptocurrency exchange where you can buy and sell TAO.
 - [wTAO on Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44) - Wrapped TAO (wTAO) is bridged $TAO from https://taobridge.xyz and can be exchanged 1:1 for actual TAO. However, is technically an "IOU". The recommendation is to use the bridge in small amounts and to withdraw to the native chain if you're buying and holding long term. 
 
 ## Community
@@ -71,7 +70,7 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 - [The Bittensor Hub](https://www.youtube.com/@TheBittensorHub) - Community created YouTube Channel dedicated to Bittensor
 - [Community Telegram Channel](https://t.me/taobittensor) - Community-led Telegram channel
 - [Community FAQ](CommunityFAQ.md)
-- [Bittensor Community Discord Channel](https://discord.gg/WAvBMtXgCv) - Unofficial community Discord server for price talk, OTC Trades, Bridge/wTAO Chat, Taostats Chat.
+- [TAO Community Discord Channel](https://discord.gg/raCYpv8XbV) - Unofficial community Discord server for price talk, Bridge/wTAO Chat, Community Projects, Validators, etc.
 
 ## Videos
 
@@ -94,6 +93,7 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 
 > Links to useful articles and Twitter threads
 
+- [PodScript Bittensor Transcripts](https://podscript.ai/categories/bittensor/) - Transcripts of Twitter Spaces and podcast appearances of the Bittensor team
 - [Bittensor - Interesting AI project](https://mirror.xyz/0xabac.eth/CNLTH5-C6K1DCzV90u3A8RFtk4tlY2xxSoSoLD9CKrw) - English translation of the article written by Popek1990.eth
 - [Bittensor –  Beating Google at its own  Game](https://cryptoyusaku.substack.com/p/bittensor-beating-google-at-its-own) - Article by CryptoYusaku
 - [BitTensor [τ, τ]  $Tao](https://docs.google.com/presentation/d/1B7cxXjyk7kBVSaB4T3fp5g9itDQGQ_1tB7OjOQSzzU0/edit#slide=id.p ) - Presentation by @AIzorr0
