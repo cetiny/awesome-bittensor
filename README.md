@@ -51,6 +51,7 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 - [Tensor Wallet](https://tensor-wallet.fairchild.dev/) - Bittensor Wallet by Developer Cameron Fairchild
 - [Tensor Ping](https://tensor-ping.fairchild.dev/) - Tool to ping your Bittensor server, check balance. Faucet for test tokens.
 - [TAO Stats Website](https://taostats.io/) - Metagraph UID data, ranking, staking, buying, knowledge and resources.
+- [Neuralteq](https://neuralteq.com/) - Non-custodial Bittensor dTAO research and workflow platform for subnet market data, portfolio tracking, staking tools, orders, baskets, and swaps.
 - [TAO Ethereum Bridge](https://taobridge.xyz/) - Community maintained bridge between Bittensor and Ethereum networks 
 - [wTAO Dune Analytics Dashboard](https://dune.com/xibumi/wtao-stats) - WrappedTAO Dashboard powered by Dune Analytics: Daily trades, volume, hourly price, wallets, whale list and top trades by volume.
 - [wTAO Chart on Dexscreener](https://dexscreener.com/ethereum/0x433a00819c771b33fa7223a5b3499b24fbcd1bbc) - wTAO (Wrapped TAO) / WETH Price/Volume Chart
