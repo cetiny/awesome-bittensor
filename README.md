@@ -45,6 +45,8 @@ TAO: 5Dw7y4VGcrTPLfBvxopcBiZnpJWiaNHjum9fy9QDPPFDEoZG
 
 > Useful tools for Bittensor
 
+- [IOTA Watch](https://iotahome.site/en) - Open-source, read-only monitor for Macrocosmos IOTA Train at Home (SN9): public Miner IDs, reported training activity, reward records and network visualization in five languages.
+
 - [Polkadot Wallet](https://polkadot.js.org/extension/) - Polkadot Wallet for the TAO token
 - [Bittensor Oracle](https://explorer.nakamoto.opentensor.ai/#/explorer) - Bittensor chain explorer Tool to check recent blocks and account status
 - [https://mnr.ai/](https://mnr.ai/) - Builders and code snippets for Bittensor node operators
